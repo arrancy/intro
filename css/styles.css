@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin-top: 50px;
+  font-family: 'Baskervville', serif;
+  font-size: 100px;
+  margin-bottom: 0;
+  line-height: 2;
+
+}
+h2 {
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 2.5rem;
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.main-heading {
+  margin-top: 50px;
+  font-family: 'Baskervville', serif;
+  font-size: 100px;
+  margin-bottom: 0;
+  color: #256D85
+}
+
+.main-message {
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #256D85;
+}
+
+h3 {
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 1.5rem;
+
+}
+
+p {
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 1.2rem;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.top {
+  background-color: #A3C7D6;
+  padding-top: 100px;
+  margin-bottom: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1;
+
+}
+
+.middle-container {}
+
+.bottom-container {
+padding-bottom: 30px;
+padding-top: 30px;
+  background-color: #A3C7D6
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 200px;
+}
+.code-img{
+  width: 25%;
+  height: 150px;
+  float: left;
+  position: relative;
+  right:30px;
+    bottom:30px;
+}
+.tt-img{
+  width: 25%;
+  height:150px;
+  float: right;
+  position: relative;
+    left:30px;
+    bottom:30px;
+}
+hr{
+    border-color: grey;
+    border-width: 10px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    margin: 30px auto 30px auto;
+  }
+  .btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.contact-me{
+  margin-bottom: 30px;
+}
+.copyright{
+  margin-bottom: 0;
+  color: #EAF6F6;
+}
+.footer-link{
+  margin-left: 50px;
+  margin-right: 50px;
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Nanum Myeongjo', serif;
+}
